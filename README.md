@@ -2,7 +2,7 @@
 
 Arduino library for controlling the modules for teaching programming and electronics, named EduBox!
 
-![image]()
+![image](./img/EduBox.jpg)
 
 ---
 
