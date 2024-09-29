@@ -59,7 +59,7 @@ Arduino library for controlling the modules for teaching programming and electro
 
 ## Examples
 
-There are many examples implemented in this library. One of the examples is below. You can find other examples [here]()
+There are many examples implemented in this library. One of the examples is below. You can find other examples [here](https://github.com/rszczepanski93/EduBox_ArduinoLibrary/tree/main/examples)
 
 ### Simple
 
