@@ -13,9 +13,9 @@ Arduino library for controlling the modules for teaching programming and electro
 ![image]()
 
 1. In the Arduino IDE, navigate to Sketch > Include Library > Manage Libraries
-1. Then the Library Manager will open and you will find a list of libraries that are already installed or ready for installation.
-1. Then search for EduBox using the search bar.
-1. Click on the text area and then select the specific version and install it.
+1. Then the Library Manager will open, and you will find a list of libraries that have already been installed or are ready for installation.
+1. Then, search for EduBox using the search bar.
+1. Click on the text area, select the specific version, and install it.
 
 ### Second Method
 
@@ -26,7 +26,7 @@ Arduino library for controlling the modules for teaching programming and electro
 
 - ### GNU Lesser General Public License
 
-  Adafruit_NeoPixel is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+  EduBox is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License or (at your option) any later version.
 
 ## Functions
 
@@ -44,10 +44,10 @@ Arduino library for controlling the modules for teaching programming and electro
 - eduLineSensor_GetLeftSensorValue()
 - eduLineSensor_GetCenterSensorValue()
 - eduLineSensor_GetRightSensorValue()
-- eduStepperMotr_SetSpeed()
-- eduStepperMotr_GetPosition()
-- eduStepperMotr_SetPosition()
-- eduStepperMotr_MakeRotation()
+- eduStepperMotor_SetSpeed()
+- eduStepperMotor_GetPosition()
+- eduStepperMotor_SetPosition()
+- eduStepperMotor_MakeRotation()
 - eduTemprature_GetTemperature()
 - eduTemprature_GetHumidity()
 - eduServo_SetPosition()
@@ -81,18 +81,6 @@ void loop() {
   delay(1000);
 }
 ```
-
-## Contributing
-
-If you want to contribute to this project:
-
-- Report bugs and errors
-- Ask for enhancements
-- Create issues and pull requests
-- Tell others about this library
-- Contribute new protocols
-
-Please read [CONTRIBUTING.md](https://github.com/adafruit/Adafruit_NeoPixel/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Credits
 
