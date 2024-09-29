@@ -1,0 +1,10 @@
+# Syntax Coloring Map For eduBox
+
+# Datatypes (KEYWORD1)
+EduBox	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
